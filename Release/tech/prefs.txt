@@ -19,7 +19,7 @@ source.md
 //Title [8]
 MD Renderer
 //Name of font to load [9]
-tech\DroidSans-Regular.ttf
+tech\Roboto-Regular.ttf
 //Font scaling (width, height)[10][11]
 1.0
 1.0
