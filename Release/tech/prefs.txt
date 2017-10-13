@@ -30,3 +30,13 @@ tech\Roboto-Regular.ttf
 0
 //Estimated framerate [14]
 15
+//Header Scaling
+//Here is 6 header levels, from 1 to 6. [15][16][17][18][19][20]
+//Size of characters in header will be multiplied by one of these numbers.
+//Default is 1.6 1.5 1.4 1.3 1.2 1.1
+1.9
+1.8
+1.6
+1.5
+1.3
+1.2
