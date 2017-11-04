@@ -29,7 +29,7 @@ tech\OpenSans-Regular.ttf
 //IT MUST BE INTEGER
 0
 //Estimated framerate [14]
-15
+30
 //Header Scaling
 //Here is 6 header levels, from 1 to 6. [15][16][17][18][19][20]
 //Size of characters in header will be multiplied by one of these numbers.
