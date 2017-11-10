@@ -1,0 +1,44 @@
+//[i] is number of param
+//NEVER APPEND EMPTY STRINGS AT THIS FILE
+//Font size [0]
+15
+//Size of window (width, height) [1][2]
+560
+720
+//Size of margin (from left side, from top side) [3][4]
+30
+30
+//Interval [5] 
+25
+//Space width coefficient (float) [6]
+//real space width = width of symbol + size of font \* coefficient
+0.3
+//Filename [7]
+//Name of file to load
+source.md
+//Title [8]
+MD Renderer
+//Name of font to load [9]
+tech\OpenSans-Regular.ttf
+//Font scaling (width, height)[10][11]
+1.0
+1.0
+//Text scrolling speed coefficient [12]
+3.0
+//Is scrolling inverted? [13] 0 is false, every num else is true
+//IT MUST BE INTEGER
+0
+//Estimated framerate [14]
+30
+//Header Scaling
+//Here is 6 header levels, from 1 to 6. [15][16][17][18][19][20]
+//Size of characters in header will be multiplied by one of these numbers.
+//Default is 1.6 1.5 1.4 1.3 1.2 1.1
+1.9
+1.8
+1.6
+1.5
+1.3
+1.2
+//Font for `code` [21]
+tech\DroidSansMono-Regular.ttf
